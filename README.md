@@ -1,2 +1,2 @@
 # patika-frontend-css
- homework on Patika 💜
+ my css homework on Patika 💜
